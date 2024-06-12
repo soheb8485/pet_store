@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 :root {
-    --green: #2536ba;
+    --green: #48c3c5;
     --white: #F3F3F3;
 }
 
@@ -416,7 +416,7 @@ a.order {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(122, 183, 48, .8);
+    background:rgb(72 195 197 / 38%);
     transition: .5s;
     opacity: 0;
 }
