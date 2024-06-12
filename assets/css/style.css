@@ -573,8 +573,8 @@ input.form-control.p-3 {
     border-radius: 0;
 }
 @media screen and (max-width: 390px) {
-    .navbar {
-        flex-wrap: unset;
+    .nav_header a {
+       margin: 5;
     }
 }
 @media screen and (max-width: 320px) {
