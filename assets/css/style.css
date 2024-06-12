@@ -574,7 +574,7 @@ input.form-control.p-3 {
 }
 @media screen and (max-width: 390px) {
     .nav_header a {
-       margin: 5;
+       margin: 5px;
     }
 }
 @media screen and (max-width: 320px) {
